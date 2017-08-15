@@ -1,0 +1,18 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "JCreatorRepoFor1Z803"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "\\JavaGeneralPractice\\JavaGeneralPractice.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "\\JavaGeneralPractice\\PackagePracticeDemo.java" #[EndFile]
+#[BeginFile]SOURCE := "\\JavaGeneralPractice\\JavaOperatorsDemo.java" #[EndFile]
+#[BeginFile]SOURCE := "\\JavaGeneralPractice\\JavaLoopDemo.java" #[EndFile]
+#[BeginFile]SOURCE := "\\JavaGeneralPractice\\Minor.java" #[EndFile]
+#[BeginFile]SOURCE := "\\JavaGeneralPractice\\JavaStringDemo1.java" #[EndFile]
+
+! Start Breakpoint Structure
+

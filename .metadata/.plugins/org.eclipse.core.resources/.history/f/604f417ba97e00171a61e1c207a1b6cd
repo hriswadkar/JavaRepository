@@ -1,0 +1,11 @@
+package com.selftest.chapter6;
+
+public class Emu {
+	static String s = "-";
+	public static void main(String[] args) {
+		try {
+			throw new Exception();
+		}
+	}
+
+}

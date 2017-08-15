@@ -1,0 +1,9 @@
+package com.exception.handling.demo;
+
+public class JVMError {
+
+	public static void main(String[] args) {
+		// T
+	}
+
+}

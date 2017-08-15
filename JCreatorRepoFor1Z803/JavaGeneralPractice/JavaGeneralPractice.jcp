@@ -1,0 +1,61 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "JavaGeneralPractice"
+JDKPROFILE := ""
+ACTIVE := "1"
+OUTPUTPATH := "..\\\\JavaGeneralPractice"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "" RUNAPPLET := "" PARAM := "" RUN := "FinalStringBuilderDemo" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFolder]
+LABEL := "PackageAccessPractice"
+FILTER := ""
+
+#[EndFolder]
+#[BeginFolder]
+LABEL := "PackagePractice"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\PackagePracticeDemo.java" #[EndFile]
+#[EndFolder]
+#[BeginFolder]
+LABEL := "StringBuilderTest"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\FinalStringBuilderDemo.java" #[EndFile]
+#[EndFolder]
+#[BeginFolder]
+LABEL := "OperatorsDemo"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\JavaOperatorsDemo.java" #[EndFile]
+#[EndFolder]
+#[BeginFolder]
+LABEL := "LoopingDemo"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\JavaLoopDemo.java" #[EndFile]
+#[EndFolder]
+#[BeginFolder]
+LABEL := "StaticDemo"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\Minor.java" #[EndFile]
+#[EndFolder]
+#[BeginFolder]
+LABEL := "StringDemo"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\JavaStringDemo1.java" #[EndFile]
+#[EndFolder]
+#[EndFolder]

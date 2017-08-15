@@ -1,0 +1,20 @@
+package com.exception.handling.demo;
+
+public class JVMError {
+
+	public static void main(String[] args) {
+		// Call method callMethod of CircularReference class
+		CircularReference circularReference = new CircularReference();
+		circularReference.callMethod();
+	}
+	
+	class CircularReference {
+		public void callMethod() {
+			// This method is calling itself so it will be
+			// circular reference and JVM after some time
+			// should throw StackOverFlowException
+			callMethod();
+		}
+	}
+
+}

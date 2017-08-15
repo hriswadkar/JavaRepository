@@ -1,0 +1,27 @@
+package com.selftest.chapter6;
+
+public class Plane {
+
+	static String s = "-";
+	public static void main(String[] args) {
+		
+	}
+	
+	void s1() {
+		try {
+			
+		}
+		catch(Exception e) {
+			s += "c";
+		}
+	}
+	
+	void s2() thorws Exception {
+		
+	}
+	
+	void s3() throws Exception {
+		throw new Exception();
+	}
+
+}
