@@ -1,0 +1,4 @@
+This is a sample input file.
+The contents of this file will be copied to another.
+The layout will be same.
+This file is referred by FileCopy.java program.
