@@ -22,3 +22,7 @@
 hs_err_pid*
 /SelfTestChapter4/SelfTestChapter4/nbproject/private/
 /SelfTestChapter4/SelfTestChapter4/build/
+/ButtonActionApplet/*.jcp
+/ButtonActionApplet/*.jcu
+/ButtonActionApplet/*.jcw
+/ButtonActionApplet/src_buttonactionapplet.txt
